@@ -1,8 +1,8 @@
 # Yueming Gao — Personal Website
 
-**Live site: https://yg674-dev.github.io/yueminggao.github.io/**
+**Live site: https://yg674-dev.github.io/**
 
-A single-page personal site: Investment Manager · Product Leader · Data Science.
+A single-page personal site: AI Product Manager · Trust & Safety · Data Science.
 Built as static HTML/CSS/JS and served by GitHub Pages from `main`.
 
 ## Sections
